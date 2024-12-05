@@ -1,0 +1,12 @@
+{
+  "content_sources": [],
+  "customizations": {},
+  "description": "rhel-9-x86_64-WSL",
+  "distribution": "rhel-9",
+  "metadata": {
+    "exported_at": "2024-12-04 22:33:45.590505086 +0000 UTC",
+    "is_on_prem": false,
+    "parent_id": "70553acc-b105-4b48-9f70-66deb8c58c84"
+  },
+  "name": "rhel-9-x86_64-WSL"
+}
